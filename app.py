@@ -1,4 +1,4 @@
 import os 
 
 print(os.directory)
-print(os.function())
+print(os.print)
