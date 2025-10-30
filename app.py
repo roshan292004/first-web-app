@@ -1,6 +1,5 @@
 import os 
 
 print(os.directory)
-print(os.function())
-print(sorted())
-print(iter())
+print(os.print())
+print(os.it is () and ())
