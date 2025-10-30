@@ -1,3 +1,5 @@
 import os 
 
-print(os.directory)
+print(os.directory) 
+sum()
+min()
